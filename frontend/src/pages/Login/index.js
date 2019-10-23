@@ -19,7 +19,7 @@ export default function Login({ history }) {
     return (
         <>
         <p>
-          Ofereça <strong>kspots</strong> para programadores e encontre <strong>talentos</strong> para sua empresa
+          Ofereça <strong>spots</strong> para programadores e encontre <strong>talentos</strong> para sua empresa
         </p>
 
         <form onSubmit={handleSubmit} >
